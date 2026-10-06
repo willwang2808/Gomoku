@@ -1,0 +1,4 @@
+*.log filter=lfs diff=lfs merge=lfs -text
+*.bin filter=lfs diff=lfs merge=lfs -text
+mode/KATAGOMO26/kata.log filter=lfs diff=lfs merge=lfs -text
+mode/STARPOINT/pattern_table.bin filter=lfs diff=lfs merge=lfs -text

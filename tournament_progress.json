@@ -1,0 +1,539 @@
+{
+  "matches_done": 90000,
+  "total_matches": 90000,
+  "timestamp": 1789771735.384966,
+  "overall": {
+    "Rapfi": {
+      "Played": 18000,
+      "Wins": 12292,
+      "Losses": 5065,
+      "Draws": 643
+    },
+    "VibeFive": {
+      "Played": 18000,
+      "Wins": 12996,
+      "Losses": 4067,
+      "Draws": 937
+    },
+    "AlphaGomoku": {
+      "Played": 18000,
+      "Wins": 13621,
+      "Losses": 3983,
+      "Draws": 396
+    },
+    "PentaZen": {
+      "Played": 18000,
+      "Wins": 11085,
+      "Losses": 6262,
+      "Draws": 653
+    },
+    "Yixin": {
+      "Played": 18000,
+      "Wins": 11132,
+      "Losses": 5953,
+      "Draws": 915
+    },
+    "SlowRenju": {
+      "Played": 18000,
+      "Wins": 7175,
+      "Losses": 10588,
+      "Draws": 237
+    },
+    "KataGomo": {
+      "Played": 18000,
+      "Wins": 1000,
+      "Losses": 17000,
+      "Draws": 0
+    },
+    "EgoZero": {
+      "Played": 18000,
+      "Wins": 1000,
+      "Losses": 17000,
+      "Draws": 0
+    },
+    "Carbon": {
+      "Played": 18000,
+      "Wins": 7011,
+      "Losses": 10803,
+      "Draws": 186
+    },
+    "StarPoint": {
+      "Played": 18000,
+      "Wins": 10251,
+      "Losses": 6842,
+      "Draws": 907
+    }
+  },
+  "h2h": {
+    "Rapfi": {
+      "VibeFive": {
+        "Wins": 1042,
+        "Losses": 940,
+        "Draws": 18
+      },
+      "AlphaGomoku": {
+        "Wins": 1034,
+        "Losses": 805,
+        "Draws": 161
+      },
+      "PentaZen": {
+        "Wins": 1104,
+        "Losses": 711,
+        "Draws": 185
+      },
+      "Yixin": {
+        "Wins": 1064,
+        "Losses": 822,
+        "Draws": 114
+      },
+      "SlowRenju": {
+        "Wins": 1181,
+        "Losses": 783,
+        "Draws": 36
+      },
+      "KataGomo": {
+        "Wins": 2000,
+        "Losses": 0,
+        "Draws": 0
+      },
+      "EgoZero": {
+        "Wins": 2000,
+        "Losses": 0,
+        "Draws": 0
+      },
+      "Carbon": {
+        "Wins": 1710,
+        "Losses": 261,
+        "Draws": 29
+      },
+      "StarPoint": {
+        "Wins": 1157,
+        "Losses": 743,
+        "Draws": 100
+      }
+    },
+    "VibeFive": {
+      "Rapfi": {
+        "Wins": 940,
+        "Losses": 1042,
+        "Draws": 18
+      },
+      "AlphaGomoku": {
+        "Wins": 996,
+        "Losses": 899,
+        "Draws": 105
+      },
+      "PentaZen": {
+        "Wins": 1088,
+        "Losses": 655,
+        "Draws": 257
+      },
+      "Yixin": {
+        "Wins": 1418,
+        "Losses": 343,
+        "Draws": 239
+      },
+      "SlowRenju": {
+        "Wins": 1713,
+        "Losses": 191,
+        "Draws": 96
+      },
+      "KataGomo": {
+        "Wins": 2000,
+        "Losses": 0,
+        "Draws": 0
+      },
+      "EgoZero": {
+        "Wins": 2000,
+        "Losses": 0,
+        "Draws": 0
+      },
+      "Carbon": {
+        "Wins": 1735,
+        "Losses": 205,
+        "Draws": 60
+      },
+      "StarPoint": {
+        "Wins": 1106,
+        "Losses": 732,
+        "Draws": 162
+      }
+    },
+    "AlphaGomoku": {
+      "Rapfi": {
+        "Wins": 805,
+        "Losses": 1034,
+        "Draws": 161
+      },
+      "VibeFive": {
+        "Wins": 899,
+        "Losses": 996,
+        "Draws": 105
+      },
+      "PentaZen": {
+        "Wins": 1621,
+        "Losses": 358,
+        "Draws": 21
+      },
+      "Yixin": {
+        "Wins": 1202,
+        "Losses": 789,
+        "Draws": 9
+      },
+      "SlowRenju": {
+        "Wins": 1944,
+        "Losses": 50,
+        "Draws": 6
+      },
+      "KataGomo": {
+        "Wins": 2000,
+        "Losses": 0,
+        "Draws": 0
+      },
+      "EgoZero": {
+        "Wins": 2000,
+        "Losses": 0,
+        "Draws": 0
+      },
+      "Carbon": {
+        "Wins": 1932,
+        "Losses": 66,
+        "Draws": 2
+      },
+      "StarPoint": {
+        "Wins": 1218,
+        "Losses": 690,
+        "Draws": 92
+      }
+    },
+    "PentaZen": {
+      "Rapfi": {
+        "Wins": 711,
+        "Losses": 1104,
+        "Draws": 185
+      },
+      "VibeFive": {
+        "Wins": 655,
+        "Losses": 1088,
+        "Draws": 257
+      },
+      "AlphaGomoku": {
+        "Wins": 358,
+        "Losses": 1621,
+        "Draws": 21
+      },
+      "Yixin": {
+        "Wins": 1342,
+        "Losses": 562,
+        "Draws": 96
+      },
+      "SlowRenju": {
+        "Wins": 1512,
+        "Losses": 461,
+        "Draws": 27
+      },
+      "KataGomo": {
+        "Wins": 2000,
+        "Losses": 0,
+        "Draws": 0
+      },
+      "EgoZero": {
+        "Wins": 2000,
+        "Losses": 0,
+        "Draws": 0
+      },
+      "Carbon": {
+        "Wins": 1156,
+        "Losses": 841,
+        "Draws": 3
+      },
+      "StarPoint": {
+        "Wins": 1351,
+        "Losses": 585,
+        "Draws": 64
+      }
+    },
+    "Yixin": {
+      "Rapfi": {
+        "Wins": 822,
+        "Losses": 1064,
+        "Draws": 114
+      },
+      "VibeFive": {
+        "Wins": 343,
+        "Losses": 1418,
+        "Draws": 239
+      },
+      "AlphaGomoku": {
+        "Wins": 789,
+        "Losses": 1202,
+        "Draws": 9
+      },
+      "PentaZen": {
+        "Wins": 562,
+        "Losses": 1342,
+        "Draws": 96
+      },
+      "SlowRenju": {
+        "Wins": 1967,
+        "Losses": 13,
+        "Draws": 20
+      },
+      "KataGomo": {
+        "Wins": 2000,
+        "Losses": 0,
+        "Draws": 0
+      },
+      "EgoZero": {
+        "Wins": 2000,
+        "Losses": 0,
+        "Draws": 0
+      },
+      "Carbon": {
+        "Wins": 1788,
+        "Losses": 183,
+        "Draws": 29
+      },
+      "StarPoint": {
+        "Wins": 861,
+        "Losses": 731,
+        "Draws": 408
+      }
+    },
+    "SlowRenju": {
+      "Rapfi": {
+        "Wins": 783,
+        "Losses": 1181,
+        "Draws": 36
+      },
+      "VibeFive": {
+        "Wins": 191,
+        "Losses": 1713,
+        "Draws": 96
+      },
+      "AlphaGomoku": {
+        "Wins": 50,
+        "Losses": 1944,
+        "Draws": 6
+      },
+      "PentaZen": {
+        "Wins": 461,
+        "Losses": 1512,
+        "Draws": 27
+      },
+      "Yixin": {
+        "Wins": 13,
+        "Losses": 1967,
+        "Draws": 20
+      },
+      "KataGomo": {
+        "Wins": 2000,
+        "Losses": 0,
+        "Draws": 0
+      },
+      "EgoZero": {
+        "Wins": 2000,
+        "Losses": 0,
+        "Draws": 0
+      },
+      "Carbon": {
+        "Wins": 962,
+        "Losses": 1021,
+        "Draws": 17
+      },
+      "StarPoint": {
+        "Wins": 715,
+        "Losses": 1250,
+        "Draws": 35
+      }
+    },
+    "KataGomo": {
+      "Rapfi": {
+        "Wins": 0,
+        "Losses": 2000,
+        "Draws": 0
+      },
+      "VibeFive": {
+        "Wins": 0,
+        "Losses": 2000,
+        "Draws": 0
+      },
+      "AlphaGomoku": {
+        "Wins": 0,
+        "Losses": 2000,
+        "Draws": 0
+      },
+      "PentaZen": {
+        "Wins": 0,
+        "Losses": 2000,
+        "Draws": 0
+      },
+      "Yixin": {
+        "Wins": 0,
+        "Losses": 2000,
+        "Draws": 0
+      },
+      "SlowRenju": {
+        "Wins": 0,
+        "Losses": 2000,
+        "Draws": 0
+      },
+      "EgoZero": {
+        "Wins": 1000,
+        "Losses": 1000,
+        "Draws": 0
+      },
+      "Carbon": {
+        "Wins": 0,
+        "Losses": 2000,
+        "Draws": 0
+      },
+      "StarPoint": {
+        "Wins": 0,
+        "Losses": 2000,
+        "Draws": 0
+      }
+    },
+    "EgoZero": {
+      "Rapfi": {
+        "Wins": 0,
+        "Losses": 2000,
+        "Draws": 0
+      },
+      "VibeFive": {
+        "Wins": 0,
+        "Losses": 2000,
+        "Draws": 0
+      },
+      "AlphaGomoku": {
+        "Wins": 0,
+        "Losses": 2000,
+        "Draws": 0
+      },
+      "PentaZen": {
+        "Wins": 0,
+        "Losses": 2000,
+        "Draws": 0
+      },
+      "Yixin": {
+        "Wins": 0,
+        "Losses": 2000,
+        "Draws": 0
+      },
+      "SlowRenju": {
+        "Wins": 0,
+        "Losses": 2000,
+        "Draws": 0
+      },
+      "KataGomo": {
+        "Wins": 1000,
+        "Losses": 1000,
+        "Draws": 0
+      },
+      "Carbon": {
+        "Wins": 0,
+        "Losses": 2000,
+        "Draws": 0
+      },
+      "StarPoint": {
+        "Wins": 0,
+        "Losses": 2000,
+        "Draws": 0
+      }
+    },
+    "Carbon": {
+      "Rapfi": {
+        "Wins": 261,
+        "Losses": 1710,
+        "Draws": 29
+      },
+      "VibeFive": {
+        "Wins": 205,
+        "Losses": 1735,
+        "Draws": 60
+      },
+      "AlphaGomoku": {
+        "Wins": 66,
+        "Losses": 1932,
+        "Draws": 2
+      },
+      "PentaZen": {
+        "Wins": 841,
+        "Losses": 1156,
+        "Draws": 3
+      },
+      "Yixin": {
+        "Wins": 183,
+        "Losses": 1788,
+        "Draws": 29
+      },
+      "SlowRenju": {
+        "Wins": 1021,
+        "Losses": 962,
+        "Draws": 17
+      },
+      "KataGomo": {
+        "Wins": 2000,
+        "Losses": 0,
+        "Draws": 0
+      },
+      "EgoZero": {
+        "Wins": 2000,
+        "Losses": 0,
+        "Draws": 0
+      },
+      "StarPoint": {
+        "Wins": 434,
+        "Losses": 1520,
+        "Draws": 46
+      }
+    },
+    "StarPoint": {
+      "Rapfi": {
+        "Wins": 743,
+        "Losses": 1157,
+        "Draws": 100
+      },
+      "VibeFive": {
+        "Wins": 732,
+        "Losses": 1106,
+        "Draws": 162
+      },
+      "AlphaGomoku": {
+        "Wins": 690,
+        "Losses": 1218,
+        "Draws": 92
+      },
+      "PentaZen": {
+        "Wins": 585,
+        "Losses": 1351,
+        "Draws": 64
+      },
+      "Yixin": {
+        "Wins": 731,
+        "Losses": 861,
+        "Draws": 408
+      },
+      "SlowRenju": {
+        "Wins": 1250,
+        "Losses": 715,
+        "Draws": 35
+      },
+      "KataGomo": {
+        "Wins": 2000,
+        "Losses": 0,
+        "Draws": 0
+      },
+      "EgoZero": {
+        "Wins": 2000,
+        "Losses": 0,
+        "Draws": 0
+      },
+      "Carbon": {
+        "Wins": 1520,
+        "Losses": 434,
+        "Draws": 46
+      }
+    }
+  }
+}
