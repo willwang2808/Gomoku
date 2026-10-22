@@ -1,0 +1,149 @@
+{
+  "matches_done": 20000,
+  "total_matches": 20000,
+  "timestamp": 1791319017.5715845,
+  "overall": {
+    "AlphaGomoku": {
+      "Played": 8000,
+      "Wins": 5120,
+      "Losses": 2645,
+      "Draws": 235
+    },
+    "VibeFive": {
+      "Played": 8000,
+      "Wins": 4589,
+      "Losses": 2884,
+      "Draws": 527
+    },
+    "Rapfi": {
+      "Played": 8000,
+      "Wins": 4685,
+      "Losses": 2272,
+      "Draws": 1043
+    },
+    "Yixin": {
+      "Played": 8000,
+      "Wins": 1194,
+      "Losses": 6061,
+      "Draws": 745
+    },
+    "PentaZen": {
+      "Played": 8000,
+      "Wins": 2810,
+      "Losses": 4536,
+      "Draws": 654
+    }
+  },
+  "h2h": {
+    "AlphaGomoku": {
+      "VibeFive": {
+        "Wins": 912,
+        "Losses": 991,
+        "Draws": 97
+      },
+      "Rapfi": {
+        "Wins": 889,
+        "Losses": 1028,
+        "Draws": 83
+      },
+      "Yixin": {
+        "Wins": 1766,
+        "Losses": 218,
+        "Draws": 16
+      },
+      "PentaZen": {
+        "Wins": 1553,
+        "Losses": 408,
+        "Draws": 39
+      }
+    },
+    "VibeFive": {
+      "AlphaGomoku": {
+        "Wins": 991,
+        "Losses": 912,
+        "Draws": 97
+      },
+      "Rapfi": {
+        "Wins": 875,
+        "Losses": 1087,
+        "Draws": 38
+      },
+      "Yixin": {
+        "Wins": 1678,
+        "Losses": 145,
+        "Draws": 177
+      },
+      "PentaZen": {
+        "Wins": 1045,
+        "Losses": 740,
+        "Draws": 215
+      }
+    },
+    "Rapfi": {
+      "AlphaGomoku": {
+        "Wins": 1028,
+        "Losses": 889,
+        "Draws": 83
+      },
+      "VibeFive": {
+        "Wins": 1087,
+        "Losses": 875,
+        "Draws": 38
+      },
+      "Yixin": {
+        "Wins": 1340,
+        "Losses": 123,
+        "Draws": 537
+      },
+      "PentaZen": {
+        "Wins": 1230,
+        "Losses": 385,
+        "Draws": 385
+      }
+    },
+    "Yixin": {
+      "AlphaGomoku": {
+        "Wins": 218,
+        "Losses": 1766,
+        "Draws": 16
+      },
+      "VibeFive": {
+        "Wins": 145,
+        "Losses": 1678,
+        "Draws": 177
+      },
+      "Rapfi": {
+        "Wins": 123,
+        "Losses": 1340,
+        "Draws": 537
+      },
+      "PentaZen": {
+        "Wins": 708,
+        "Losses": 1277,
+        "Draws": 15
+      }
+    },
+    "PentaZen": {
+      "AlphaGomoku": {
+        "Wins": 408,
+        "Losses": 1553,
+        "Draws": 39
+      },
+      "VibeFive": {
+        "Wins": 740,
+        "Losses": 1045,
+        "Draws": 215
+      },
+      "Rapfi": {
+        "Wins": 385,
+        "Losses": 1230,
+        "Draws": 385
+      },
+      "Yixin": {
+        "Wins": 1277,
+        "Losses": 708,
+        "Draws": 15
+      }
+    }
+  }
+}
